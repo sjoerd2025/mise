@@ -1,5 +1,20 @@
 # Changelog
 
+## [2026.2.18](https://github.com/jdx/mise/compare/v2026.2.17..v2026.2.18) - 2026-02-21
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (3)
+
+- [`Skarlso/crd-to-sample-yaml`](https://github.com/Skarlso/crd-to-sample-yaml)
+- [`kunobi-ninja/kunobi-releases`](https://github.com/kunobi-ninja/kunobi-releases)
+- [`tmux/tmux-builds`](https://github.com/tmux/tmux-builds)
+
+#### Updated Packages (2)
+
+- [`firecow/gitlab-ci-local`](https://github.com/firecow/gitlab-ci-local)
+- [`k1LoW/runn`](https://github.com/k1LoW/runn)
+
 ## [2026.2.17](https://github.com/jdx/mise/compare/v2026.2.16..v2026.2.17) - 2026-02-19
 
 ### 🚀 Features
